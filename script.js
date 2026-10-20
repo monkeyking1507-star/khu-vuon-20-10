@@ -34,7 +34,7 @@ const membersData = [
         name: "Cô Danielle Michaux",
         type: "teacher",
         flower: "🌹",
-        wish: "Dear Cô Danielle Michaux, thank you for bringing your invaluable international expertise and profound passion to our Aucouturier Psychomotricity Class IV. Your guidance has opened new horizons for us. Wishing you a wonderful and joyful Vietnamese Women's Day (20/10) filled with love, happiness, and continued success in your inspiring educational journey!"
+        wish: "Dear Danielle Michaux, thank you for bringing your invaluable international expertise and profound passion to our Aucouturier Psychomotricity Class IV. Your guidance has opened new horizons for us. Wishing you a wonderful and joyful Vietnamese Women's Day (20/10) filled with love, happiness, and continued success in your inspiring educational journey!"
     },
 
     // --- 25 BẠN NỮ KHÓA TÂM VẬN ĐỘNG AUCOUTURIER KHÓA IV ---
